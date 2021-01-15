@@ -7,7 +7,7 @@ public class EmailConstant {
     public static final String PASSWORD = "dummy";
     public static final String FROM_EMAIL = "example@gmail.com";
     public static final String CC_EMAIL = "";
-    public static final String EMAIL_SUBJECT = "KaraLabs, User Management - New Password";
+    public static final String EMAIL_SUBJECT = "KaraLab, User Management - New Password";
     public static final String GMAIL_SMTP_SERVER = "smtp.gmail.com";
     public static final String SMTP_HOST = "mail.smtp.host";
     public static final String SMTP_AUTH = "mail.smtp.auth";
